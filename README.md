@@ -30,3 +30,5 @@ $env:ONE_CLICK_RUN_PORTABLE_CONDA_SELECTEDMATCH = 'Miniconda3-py312_24.11.1-0-Wi
 ## 说明
 
 本仓库提供的 exe 文件是 miniconda 官方安装程序的副本.
+
+如果你不信任我提供的文件, 可以在这里下载: https://repo.anaconda.com/miniconda.
